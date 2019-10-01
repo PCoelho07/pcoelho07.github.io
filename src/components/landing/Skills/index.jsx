@@ -7,9 +7,9 @@ import { Wrapper, SkillsWrapper, Details, Thumbnail } from './styles'
 export const Skills = () => (
 	<Wrapper id="about">
 		<SkillsWrapper as={Container}>
-			<Thumbnail>
+			{/* <Thumbnail>
 				<img src={dev} alt="I’m John and I’m a Backend & Devops engineer!" />
-			</Thumbnail>
+			</Thumbnail> */}
 			<Details>
 				<h1>Hi There!</h1>
 				<p>
